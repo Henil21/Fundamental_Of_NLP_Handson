@@ -25,7 +25,7 @@ This book provides a **clear and structured introduction** to NLP for **students
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/Henil21/Fundamental_Of_NLP_Handson-/
+git clone https://github.com/Henil21/Fundamental_Of_NLP_Handson/
 ```
 
 ## About Author 
